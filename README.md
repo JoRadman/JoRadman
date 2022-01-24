@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @JoRadman
 - 👀 C#, Xamarin and SQL
-- 🌱 Soon: HTML and CSS
 - 📫 radman.josip1994gmail.com
 
 <!---
